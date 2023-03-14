@@ -14,10 +14,8 @@
       <a href="#Document Classification Model">Document Classification Model</a></li>
       <a href="#results">Results</a>
       <a href="#Information extraction model">Information extraction model</a>
-       
       <a href="#team">Team</a>
     </li>
-    
   </ol>
 </details>
 
