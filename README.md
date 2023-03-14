@@ -37,9 +37,9 @@ Our data classification model obtained 0.7342 accuracy on the training set and 0
 Hyperparameter tuning and regularization(early stopping) 
 ### Tech stack used
 * models: CNN and OCR
-*Framewrok-Keras 
+* Framework-Keras 
 
-###Methodology
+### Methodology
 <img width="282" alt="image" src="https://user-images.githubusercontent.com/87893594/224972918-d1e9f755-02e0-40c0-8725-ac5c4824d49a.png">
 
 ### Data Description 
@@ -57,7 +57,7 @@ Before model training, we applied horizontal and vertical data augmentation usin
 
 Various hyperparameters like the number of layers, neurons in each layer, number of filters, kernel size, value of p in dropout layers, number of epochs, batch size, etc. were changed until satisfactory training and validation accuracy was achieved.
 
-<img width="329" alt="image" src="https://user-images.githubusercontent.com/87893594/224972235-be7435d0-1f11-4c38-8ab6-6958fcb3bb83.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/87893594/224972235-be7435d0-1f11-4c38-8ab6-6958fcb3bb83.png">
 
 <img width="329" alt="image" src="https://user-images.githubusercontent.com/87893594/224972374-4244b1b6-418d-4364-8fea-77a05450ca19.png">
 
