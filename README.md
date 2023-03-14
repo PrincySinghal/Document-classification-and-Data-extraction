@@ -40,7 +40,7 @@ Hyperparameter tuning and regularization(early stopping)
 * Framework-Keras 
 
 ### Methodology
-<img width="282" alt="image" src="https://user-images.githubusercontent.com/87893594/224972918-d1e9f755-02e0-40c0-8725-ac5c4824d49a.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/87893594/224972918-d1e9f755-02e0-40c0-8725-ac5c4824d49a.png">
 
 ### Data Description 
 When we began searching for an appropriate dataset, we observed that there is no publicly available dataset of identity documents as they hold sensitive and personal information. But we came across a dataset on Kaggle that consisted of six folders, i.e., Aadhar Card, PAN Card, Voter ID, single-page Gas Bill, Passport, and Driver's License.  We added a few more images to each folder. These were our own documents that we manually scanned, with the rest coming from Google Images.
@@ -70,6 +70,7 @@ Various hyperparameters like the number of layers, neurons in each layer, number
 #### Information extraction model
 Following are the steps of OCR done on images:
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/87893594/224973268-06a235f9-6657-4970-befc-78cf665bfb65.png">
+
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/87893594/224973311-0b5c26d3-46d4-4df8-96a3-c4287072637a.png">
 
 
