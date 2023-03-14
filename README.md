@@ -22,7 +22,6 @@
       <a href="#Information extraction model">Information extraction model</a>
       <li>
       <a href="#team">Team</a>
-      <li>
     </li>
   </ol>
 </details>
