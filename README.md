@@ -8,12 +8,19 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
+       
       <a href="#salient-features">Salient Features</a></li>
+     
       <a href="#description">Description</a>
+     
       <a href="#data-preprocessing">Data Preprocessing</a></li>
+   
       <a href="#Document Classification Model">Document Classification Model</a></li>
+      
       <a href="#results">Results</a>
+      
       <a href="#Information extraction model">Information extraction model</a>
+      
       <a href="#team">Team</a>
     </li>
   </ol>
