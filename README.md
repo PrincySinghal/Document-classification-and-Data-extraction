@@ -8,7 +8,7 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-       
+       <li>
       <a href="#salient-features">Salient Features</a></li>
      
       <a href="#description">Description</a>
@@ -22,6 +22,7 @@
       <a href="#Information extraction model">Information extraction model</a>
       
       <a href="#team">Team</a>
+      <li>
     </li>
   </ol>
 </details>
