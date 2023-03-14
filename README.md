@@ -8,13 +8,7 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#salient-features">Salient Features</a></li>
-     
-        <li><a href="#compatible-platforms">Compatible Platforms</a></li>    
-      </ul>
-    </li>
-    <li>
+      <a href="#salient-features">Salient Features</a></li>
       <a href="#description">Description</a>
       <a href="#data-preprocessing">Data Preprocessing</a></li>
       <a href="#Document Classification Model">Document Classification Model</a></li>
@@ -36,10 +30,6 @@ Our data classification model obtained 0.7342 accuracy on the training set and 0
 
 ### Salient Features
 Hyperparameter tuning and regularization(early stopping) 
-### Compatible Platforms
-Laptops, Desktops and Tablet PCs
-
-
 ### Tech stack used
 * models: CNN and OCR
 *Framewrok-Keras 
