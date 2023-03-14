@@ -59,17 +59,17 @@ Various hyperparameters like the number of layers, neurons in each layer, number
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/87893594/224972235-be7435d0-1f11-4c38-8ab6-6958fcb3bb83.png">
 
-<img width="329" alt="image" src="https://user-images.githubusercontent.com/87893594/224972374-4244b1b6-418d-4364-8fea-77a05450ca19.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/87893594/224972374-4244b1b6-418d-4364-8fea-77a05450ca19.png">
 
 
 ### The final Model and results
-<img width="335" alt="image" src="https://user-images.githubusercontent.com/87893594/224972133-8bf9642b-d16e-4880-b017-161c61d8f247.png">
-<img width="309" alt="image" src="https://user-images.githubusercontent.com/87893594/224972187-cd7f5c48-95d7-42fa-a187-bfd84344e903.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/87893594/224972133-8bf9642b-d16e-4880-b017-161c61d8f247.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/87893594/224972187-cd7f5c48-95d7-42fa-a187-bfd84344e903.png">
 
 
 #### Information extraction model
 Following are the steps of OCR done on images:
-<img width="486" alt="image" src="https://user-images.githubusercontent.com/87893594/224973268-06a235f9-6657-4970-befc-78cf665bfb65.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/87893594/224973268-06a235f9-6657-4970-befc-78cf665bfb65.png">
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/87893594/224973311-0b5c26d3-46d4-4df8-96a3-c4287072637a.png">
 
 
