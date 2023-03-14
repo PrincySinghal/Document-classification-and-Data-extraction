@@ -77,6 +77,6 @@ Following are the steps of OCR done on images:
 
 
 ### Team
-- Kanika Kannojia 
+- Kanika Kanojia 
 - Deepali Thakur 
 - Princy Singhal
