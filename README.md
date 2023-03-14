@@ -77,6 +77,6 @@ Following are the steps of OCR done on images:
 
 
 ### Team
-- Kanika Kanojia [GitHub]()                               [Linkedin] (https://www.linkedin.com/in/kanika-kanojia-348620207/)
+- Kanika Kanojia [GitHub](https://github.com)            [Linkedin] (https://www.linkedin.com/in/kanika-kanojia-348620207/)
 - Deepali Thakur [GitHub](https://github.com/deepalii05) [Linkedin](https://www.linkedin.com/in/deepali-thakur/)
 - Princy Singhal [GitHub](https://github.com/PrincySinghal) [Linkedin](https://www.linkedin.com/in/princy-singhal-047414224/)
