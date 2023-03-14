@@ -34,7 +34,7 @@ Our data classification model obtained 0.7342 accuracy on the training set and 0
 
 
 ### Salient Features
-Hyperparameter tuning and regularization(early stopping) 
+Hyperparameter tuning, regularization(early stopping), document split 
 ### Tech stack used
 * models: CNN and OCR
 * Framework-Keras 
