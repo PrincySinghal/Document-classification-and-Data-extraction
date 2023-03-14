@@ -69,6 +69,7 @@ Various hyperparameters like the number of layers, neurons in each layer, number
 
 #### Information extraction model
 Following are the steps of OCR done on images:
+
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/87893594/224973268-06a235f9-6657-4970-befc-78cf665bfb65.png">
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/87893594/224973311-0b5c26d3-46d4-4df8-96a3-c4287072637a.png">
@@ -76,6 +77,6 @@ Following are the steps of OCR done on images:
 
 
 ### Team
-- Kanika Kannojia
+- Kanika Kannojia 
 - Deepali Thakur 
 - Princy Singhal
