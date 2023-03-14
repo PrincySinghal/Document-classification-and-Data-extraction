@@ -52,7 +52,7 @@ Thus, these are the five documents we are classifying and extracting information
 Before model training, we applied horizontal and vertical data augmentation using random flips. This further increased the size and diversity of the dataset. The categorical values of the labels column were converted to numerical values using one-hot encoding.
 
 
-#### Document Classification Model
+### Document Classification Model
 <img width="555" alt="image" src="https://user-images.githubusercontent.com/87893594/224973161-2513f1f7-0291-41ed-9b79-c14ef2578882.png">
 
 Various hyperparameters like the number of layers, neurons in each layer, number of filters, kernel size, value of p in dropout layers, number of epochs, batch size, etc. were changed until satisfactory training and validation accuracy was achieved.
@@ -67,7 +67,7 @@ Various hyperparameters like the number of layers, neurons in each layer, number
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/87893594/224972187-cd7f5c48-95d7-42fa-a187-bfd84344e903.png">
 
 
-#### Information extraction model
+### Information extraction model
 Following are the steps of OCR done on images:
 
 <img width="650" alt="image" src="https://user-images.githubusercontent.com/87893594/224973268-06a235f9-6657-4970-befc-78cf665bfb65.png">
