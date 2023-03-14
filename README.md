@@ -10,17 +10,17 @@
       <a href="#about-the-project">About The Project</a>
        <li>
       <a href="#salient-features">Salient Features</a></li>
-     
+      <li>
       <a href="#description">Description</a>
-     
+      <li>
       <a href="#data-preprocessing">Data Preprocessing</a></li>
-   
+      <li>
       <a href="#Document Classification Model">Document Classification Model</a></li>
-      
+      <li>
       <a href="#results">Results</a>
-      
+      <li>
       <a href="#Information extraction model">Information extraction model</a>
-      
+      <li>
       <a href="#team">Team</a>
       <li>
     </li>
